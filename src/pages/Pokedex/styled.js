@@ -27,7 +27,7 @@ export const Button = styled.div `
     width: 80px;
     border: none;
     border: 1px solid transparent;
-    background-color: #FF0000;
+    background-color: #ffff00;
     transition: 0.2s ease;
     align-self: center; 
     align-items: center ;
@@ -84,7 +84,7 @@ export const DivButton = styled.div `
   margin-top: 20px;
 
   .iconHome{
-    color: #FF0000;
+    color: #ffff00;
     font-size: 50px;
     
   }
@@ -121,4 +121,3 @@ export const ButtonPagina = styled.div`
       box-shadow: 0 0 4px 0 #386ABB inset, 0 0 4px 2px #386ABB;
       height: 50px;
     }
-`
